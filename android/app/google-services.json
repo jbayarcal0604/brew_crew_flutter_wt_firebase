@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246306085270",
+    "project_id": "brew-crew-db-37cd4",
+    "storage_bucket": "brew-crew-db-37cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246306085270:android:61384f4ff7eceb15e065b7",
+        "android_client_info": {
+          "package_name": "com.indta.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhctWwPqnvUf_xiutYIsfAcfR6PUgveQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
